@@ -1,0 +1,13 @@
+Dataset_Stroke/
+Datasets/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pth
+*.pt
+*.mat
+*.zip
+*.csv
+*.xlsx
+.venv/
+venv/
