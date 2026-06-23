@@ -13,8 +13,8 @@ from zipfile import ZipFile
 # User settings
 # ---------------------------------------------------------------------------
 RESULTS_XLSX = "Results_of_MHS.xlsx"
-INPUT_SENSORS = ["S1", "S2"]
-TARGET_SENSORS = ["S4", "S5"]
+INPUT_SENSORS = ["S3", "S4", "S5"]
+TARGET_SENSORS = ["S1", "S2"]
 
 
 # ---------------------------------------------------------------------------
